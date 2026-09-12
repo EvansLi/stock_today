@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "symbol": "AAPL",
+    "market": "US",
+    "shares": 15,
+    "buyDate": "2024-01-15",
+    "costPrice": 182.5
+  },
+  {
+    "id": "2",
+    "symbol": "2330.TW",
+    "market": "TW",
+    "shares": 1000,
+    "buyDate": "2024-03-01",
+    "costPrice": 750.0
+  },
+  {
+    "id": "3",
+    "symbol": "TSLA",
+    "market": "US",
+    "shares": 10,
+    "buyDate": "2024-05-10",
+    "costPrice": 175.0
+  },
+  {
+    "id": "4",
+    "symbol": "0050.TW",
+    "market": "TW",
+    "shares": 2000,
+    "buyDate": "2024-02-20",
+    "costPrice": 140.0
+  },
+  {
+    "id": "5",
+    "symbol": "6488.TWO",
+    "market": "TW",
+    "shares": 500,
+    "buyDate": "2024-04-15",
+    "costPrice": 510.0
+  }
+]
