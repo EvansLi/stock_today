@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-10-30T01:13:17Z",
+  "updatedAt": "2026-10-31T00:56:15Z",
   "exchangeRate": {
-    "USDTWD": 32.606
+    "USDTWD": 32.5669
   },
   "data": {
-    "TSLA": {
-      "currentPrice": NaN,
-      "previousClose": 404.22,
-      "currency": "USD"
-    },
-    "2330.TW": {
-      "currentPrice": 2415.0,
-      "previousClose": 2425.0,
-      "currency": "TWD"
-    },
     "0050.TW": {
-      "currentPrice": 108.65,
-      "previousClose": 106.6,
+      "currentPrice": NaN,
+      "previousClose": 107.25,
       "currency": "TWD"
     },
     "AAPL": {
       "currentPrice": NaN,
-      "previousClose": 343.83,
+      "previousClose": 348.91,
+      "currency": "USD"
+    },
+    "2330.TW": {
+      "currentPrice": 2370.0,
+      "previousClose": 2415.0,
+      "currency": "TWD"
+    },
+    "TSLA": {
+      "currentPrice": NaN,
+      "previousClose": 403.3,
       "currency": "USD"
     },
     "6488.TWO": {
-      "currentPrice": 814.0,
-      "previousClose": 849.0,
+      "currentPrice": 756.0,
+      "previousClose": 814.0,
       "currency": "TWD"
     }
   }
